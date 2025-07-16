@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rulled/kristory-launcher/main/public/logo.png" alt="KRISTORY Logo" width="400"/>
+  <img src="logo.png" alt="KRISTORY Logo" width="400"/>
 </div>
 
 <h1 align="center">Онлайн-установщик Kristory Launcher</h1>
